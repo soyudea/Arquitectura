@@ -1,0 +1,21 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar"
+    ],
+    "cSpell.words": [
+        "CORREO",
+        "Imensaje",
+        "INSERCION",
+        "mensaje",
+        "nombre",
+        "Notificacion",
+        "notificaciones",
+        "notificar",
+        "notificatificar",
+        "numero",
+        "servicios",
+        "Usuario"
+    ]
+}
